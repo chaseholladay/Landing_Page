@@ -1,5 +1,7 @@
 # Dev Landing Page
 
+This Dev Landing Page has been adpoted from Dinesh Pandiyan.
+
 Minimal landing page for developers.
 
 Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
