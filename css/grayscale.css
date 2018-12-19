@@ -288,10 +288,13 @@ a:focus, a:hover {
 }
 
 .bg-black {
-  background-color: #161616 !important;
+  background: #303F9F;
+	color: #303F9F;
+  /* background-color: #161616 !important; */
 }
 
 .bg-primary {
+  
   background-color: #64a19d !important;
 }
 
